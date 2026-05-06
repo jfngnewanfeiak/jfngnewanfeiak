@@ -27,7 +27,6 @@
 ![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=8b949e)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1a2840?style=flat-square&logo=opencv&logoColor=79c0ff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-25201a?style=flat-square&logo=pytorch&logoColor=e3b341)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=githubactions&logoColor=8b949e)
 
 ---
 
