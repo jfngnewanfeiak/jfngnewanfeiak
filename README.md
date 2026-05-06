@@ -31,8 +31,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-1a2840?style=flat-square&logo=flutter&logoColor=79c0ff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-231f38?style=flat-square&logo=postgresql&logoColor=d2a8ff)
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -40,9 +38,6 @@
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfngnewanfeiak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3" />
 </div>
 
-<!-- 👇 全期間のストリーク統計 -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jfngnewanfeiak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" />
 </div>
----
-
