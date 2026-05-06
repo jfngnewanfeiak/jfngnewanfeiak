@@ -19,6 +19,8 @@
 ![Arduino](https://img.shields.io/badge/Arduino-1a2f1a?style=flat-square&logo=arduino&logoColor=3fb950)
 ![EV3](https://img.shields.io/badge/LEGO_EV3-1a2f1a?style=flat-square&logoColor=3fb950)
 ![RealSense](https://img.shields.io/badge/RealSense_D435-1a2f1a?style=flat-square&logo=intel&logoColor=3fb950)
+![YOLO](https://img.shields.io/badge/YOLO-25201a?style=flat-square&logoColor=e3b341)
+![Claude API](https://img.shields.io/badge/Claude_API-25201a?style=flat-square&logoColor=e3b341)
 
 ## 💻 Languages
 
@@ -27,13 +29,6 @@
 ![CMake](https://img.shields.io/badge/CMake-161b22?style=flat-square&logo=cmake&logoColor=8b949e)
 ![Bash](https://img.shields.io/badge/Bash-161b22?style=flat-square&logo=gnubash&logoColor=8b949e)
 ![JavaScript](https://img.shields.io/badge/JavaScript-25201a?style=flat-square&logo=javascript&logoColor=e3b341)
-
-## 🧠 AI
-
-![PyTorch](https://img.shields.io/badge/PyTorch-25201a?style=flat-square&logo=pytorch&logoColor=e3b341)
-![YOLO](https://img.shields.io/badge/YOLO-25201a?style=flat-square&logoColor=e3b341)
-![OpenCV](https://img.shields.io/badge/OpenCV-25201a?style=flat-square&logo=opencv&logoColor=e3b341)
-![Claude API](https://img.shields.io/badge/Claude_API-25201a?style=flat-square&logoColor=e3b341)
 
 ## 🌐 Web / App
 
