@@ -38,10 +38,10 @@
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfngnewanfeiak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3" />
 </div>
 
+<!-- 👇 全期間のストリーク統計 -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jfngnewanfeiak&theme=github-compact&hide_border=true&bg_color=0d1117&color=3fb950&line=3fb950&point=e6edf3" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jfngnewanfeiak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" />
 </div>
-
 ---
 
 <div align="center">
