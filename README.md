@@ -44,6 +44,3 @@
 </div>
 ---
 
-<div align="center">
-  <code>ros2 run your_pkg awesome_node</code>
-</div>
