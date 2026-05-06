@@ -45,13 +45,3 @@
 ![Linux](https://img.shields.io/badge/Ubuntu_22.04-161b22?style=flat-square&logo=ubuntu&logoColor=8b949e)
 ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=8b949e)
 ![VSCode](https://img.shields.io/badge/VSCode-161b22?style=flat-square&logo=visualstudiocode&logoColor=8b949e)
-
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jfngnewanfeiak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&count_private=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jfngnewanfeiak&theme=darkhub&no-frame=true&margin-w=8&column=4" />
-</div>
