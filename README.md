@@ -22,17 +22,22 @@
 ![Bash](https://img.shields.io/badge/Bash-161b22?style=flat-square&logo=gnubash&logoColor=8b949e)
 ![JavaScript](https://img.shields.io/badge/JavaScript-25201a?style=flat-square&logo=javascript&logoColor=e3b341)
 
+## 🌐 Web / App
+
+![Blazor](https://img.shields.io/badge/Blazor-1a2840?style=flat-square&logo=blazor&logoColor=79c0ff)
+![Flutter](https://img.shields.io/badge/Flutter-1a2840?style=flat-square&logo=flutter&logoColor=79c0ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-231f38?style=flat-square&logo=postgresql&logoColor=d2a8ff)
+![SQL Server](https://img.shields.io/badge/SQL_Server-1a2840?style=flat-square&logo=microsoftsqlserver&logoColor=79c0ff)
+
 ## 🛠 Tools
 
 ![Docker](https://img.shields.io/badge/Docker-231f38?style=flat-square&logo=docker&logoColor=d2a8ff)
 ![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=8b949e)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1a2840?style=flat-square&logo=opencv&logoColor=79c0ff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-25201a?style=flat-square&logo=pytorch&logoColor=e3b341)
-![Flutter](https://img.shields.io/badge/Flutter-1a2840?style=flat-square&logo=flutter&logoColor=79c0ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-231f38?style=flat-square&logo=postgresql&logoColor=d2a8ff)
 
 ## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jfngnewanfeiak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" />
 </div>
-
