@@ -50,7 +50,5 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jfngnewanfeiak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jfngnewanfeiak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&count_private=true" />
 </div>
-
-![](https://komarev.com/ghpvc/?username=jfngnewanfeiak&color=3fb950&style=flat-square&label=Profile+Views)
