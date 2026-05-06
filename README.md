@@ -13,6 +13,7 @@
 ![ROS1](https://img.shields.io/badge/ROS1-1a2f1a?style=flat-square&logo=ros&logoColor=3fb950)
 ![Gazebo](https://img.shields.io/badge/Gazebo-1a2f1a?style=flat-square&logoColor=3fb950)
 ![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-1a2f1a?style=flat-square&logoColor=3fb950)
+![PLC](https://img.shields.io/badge/PLC_%28三菱%29-1a2f1a?style=flat-square&logoColor=3fb950)
 
 ## 💻 Languages
 
