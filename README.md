@@ -33,14 +33,6 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jfngnewanfeiak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jfngnewanfeiak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&cache_seconds=1800)
-
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jfngnewanfeiak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" />
 </div>
 
