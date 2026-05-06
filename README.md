@@ -1,7 +1,7 @@
 <!-- ===== HEADER ===== -->
 <div align="center">
 
-# Hi, I'm **Your Name** 👾
+# Hi, I'm **Taishin Yamamoto** 👾
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB950&center=true&width=480&lines=Robotics+%26+ROS2+Engineer;Building+autonomous+systems+%F0%9F%A4%96;C%2B%2B+%C2%B7+Python+%C2%B7+SLAM+%C2%B7+Motion+Planning)](https://git.io/typing-svg)
 
