@@ -32,10 +32,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-231f38?style=flat-square&logo=postgresql&logoColor=d2a8ff)
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=jfngnewanfeiak&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=3fb950&title_color=e6edf3" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfngnewanfeiak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jfngnewanfeiak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jfngnewanfeiak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&cache_seconds=1800)
+
 </div>
 
 <div align="center">
