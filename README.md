@@ -20,6 +20,7 @@
 ![Python](https://img.shields.io/badge/Python-25201a?style=flat-square&logo=python&logoColor=e3b341)
 ![CMake](https://img.shields.io/badge/CMake-161b22?style=flat-square&logo=cmake&logoColor=8b949e)
 ![Bash](https://img.shields.io/badge/Bash-161b22?style=flat-square&logo=gnubash&logoColor=8b949e)
+![JavaScript](https://img.shields.io/badge/JavaScript-25201a?style=flat-square&logo=javascript&logoColor=e3b341)
 
 ## 🛠 Tools
 
@@ -27,6 +28,8 @@
 ![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=8b949e)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1a2840?style=flat-square&logo=opencv&logoColor=79c0ff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-25201a?style=flat-square&logo=pytorch&logoColor=e3b341)
+![Flutter](https://img.shields.io/badge/Flutter-1a2840?style=flat-square&logo=flutter&logoColor=79c0ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-231f38?style=flat-square&logo=postgresql&logoColor=d2a8ff)
 
 ---
 
