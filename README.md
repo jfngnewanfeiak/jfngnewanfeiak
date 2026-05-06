@@ -50,5 +50,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jfngnewanfeiak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jfngnewanfeiak&theme=github-compact&hide_border=true&bg_color=0d1117&color=3fb950&line=3fb950&point=e6edf3&area=true" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jfngnewanfeiak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&count_private=true" />
 </div>
