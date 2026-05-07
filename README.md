@@ -42,6 +42,5 @@
 ## 🛠 Tools & Infra
 
 ![Docker](https://img.shields.io/badge/Docker-231f38?style=flat-square&logo=docker&logoColor=d2a8ff)
-![Linux](https://img.shields.io/badge/Ubuntu_22.04-161b22?style=flat-square&logo=ubuntu&logoColor=8b949e)
 ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=8b949e)
 ![VSCode](https://img.shields.io/badge/VSCode-161b22?style=flat-square&logo=visualstudiocode&logoColor=8b949e)
